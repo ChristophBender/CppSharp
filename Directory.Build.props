@@ -11,7 +11,7 @@
     <RepositoryCommit>$(GITHUB_SHA)</RepositoryCommit>
     <Authors>João Matos, Dimitar Dobrev, Jose Torres</Authors>
     <Copyright>João Matos, Dimitar Dobrev</Copyright>
-    <Version>0.10.6</Version>
+    <Version>0.11.3</Version>
     <IsPackable>false</IsPackable>
     <BuildDir>$(RootDir)build\</BuildDir>
     <ObjDir>$(BuildDir)obj\</ObjDir>
